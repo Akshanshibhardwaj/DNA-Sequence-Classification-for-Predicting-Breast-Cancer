@@ -1,9 +1,9 @@
 # DNA-Sequence-Classification-for-Predicting-Breast-Cancer
 
 
-### what is problem?
-### what is possible approch to solve this problem?
-### What is final precian ?
+### What is the problem?
+### What is a possible approach to solve this problem?
+### What is the final precision?
 
 # DNA Sequence Classification for Predicting Breast Cancer
 
@@ -11,7 +11,7 @@
 
 > Promoter sequences are critical points for regulation elements in the genome that control gene expression, moreover, this approach could help us to understand how to recognize cancers faster or recognize them in early stages. Identifying these regions accurately can provide insights into genetic controls involved in breast cancer. This project employs various machine learning algorithms to classify sequences as promoter-positive or promoter-negative based on their nucleotide composition.
 
-> In this project, it will show the Machine Learning Model for classifying DNA sequence. K-Nearest Neighborhood and Support Vector Machine and several algorithms
+> In this project, it will show the Machine Learning Model for classifying DNA sequences. K-Nearest Neighborhood and Support Vector Machine and several algorithms to find out wich algorithm can have the best precision for our problems.
 
 
 
